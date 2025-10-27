@@ -1,0 +1,19 @@
+# int = numeros inteiros - 2
+# float = numeros decimais - 1.65
+#str = texto
+# boll = True, False - Valores boleanos
+#list = [1,2,3] - lista ordenada e mutavel
+#tumple = (1,2,3) - Tupla ordenada e imutável
+#dict = {"nome": "João", "idade": 30} - Dicionário (chave: valor)
+#set = {1, 2, 3} - Conjunto (sem elementos duplicados)
+#Nonetype = None - ausencia de valor
+
+a = 10              # int
+b = 3.5             # float
+c = "Python"        # str
+d = True            # bool
+e = [1, 2, 3]       # list
+f = (4, 5, 6)       # tuple
+g = {"x": 10}       # dict
+h = {1, 2, 3}       # set
+i = None            # NoneType
